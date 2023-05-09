@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignatedGambler", "DesignatedGambler\DesignatedGambler.csproj", "{92ACAA9B-0E42-4408-A4E3-CC303E967B34}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3F7B2A0B-4010-4E71-B511-5A158196B320}"
+	ProjectSection(SolutionItems) = preProject
+		GamePath.targets = GamePath.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92ACAA9B-0E42-4408-A4E3-CC303E967B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92ACAA9B-0E42-4408-A4E3-CC303E967B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92ACAA9B-0E42-4408-A4E3-CC303E967B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92ACAA9B-0E42-4408-A4E3-CC303E967B34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
